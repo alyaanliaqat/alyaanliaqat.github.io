@@ -104,8 +104,7 @@ Overall, this project highlights my ability to manage real-world data engineerin
 ## 📬 Contact
 
 **Alyaan Liaqat**  
-📧 [alyaanch3@gmail.com]  
-🔗 [LinkedIn](www.linkedin.com/in/alyaan-liaqat)  
+📧 [alyaanch3@gmail.com] 
 🌐 [GitHub Portfolio](https://alyaanliaqat.github.io/)
 
 ---

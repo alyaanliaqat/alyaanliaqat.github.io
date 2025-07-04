@@ -154,8 +154,7 @@ In my next blog I will discuss how to create a file in google drive and upload c
 ## 📬 Contact
 
 **Alyaan Liaqat**  
-📧 [alyaanch3@gmail.com]  
-🔗 [LinkedIn](www.linkedin.com/in/alyaan-liaqat)  
+📧 [alyaanch3@gmail.com] 
 🌐 [GitHub Portfolio](https://alyaanliaqat.github.io/)
 
 ---

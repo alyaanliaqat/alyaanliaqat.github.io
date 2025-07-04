@@ -139,7 +139,6 @@ Stay tuned for more tutorials, and happy automating! 🚀
 
 **Alyaan Liaqat**  
 📧 [alyaanch3@gmail.com]  
-🔗 [LinkedIn](www.linkedin.com/in/alyaan-liaqat)  
 🌐 [GitHub Portfolio](https://alyaanliaqat.github.io/)
 
 ---

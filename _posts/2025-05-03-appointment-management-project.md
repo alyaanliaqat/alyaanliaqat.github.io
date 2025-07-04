@@ -62,8 +62,7 @@ It ensures a **transparent**, **organized**, and **digitized queue management** 
 ## 📬 Contact
 
 **Alyaan Liaqat**  
-📧 [alyaanch3@gmail.com]  
-🔗 [LinkedIn](www.linkedin.com/in/alyaan-liaqat)  
+📧 [alyaanch3@gmail.com]
 🌐 [GitHub Portfolio](https://alyaanliaqat.github.io/)
 
 ---
