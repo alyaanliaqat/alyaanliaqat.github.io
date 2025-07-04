@@ -57,5 +57,13 @@ This system can be deployed at front desks of:
 
 It ensures a **transparent**, **organized**, and **digitized queue management** process.
 
+---
 
+## 📬 Contact
 
+**Alyaan Liaqat**  
+📧 [alyaanch3@gmail.com]  
+🔗 [LinkedIn](www.linkedin.com/in/alyaan-liaqat)  
+🌐 [GitHub Portfolio](https://alyaanliaqat.github.io/)
+
+---

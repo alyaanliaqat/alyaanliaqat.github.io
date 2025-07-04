@@ -151,3 +151,11 @@ This setup unlocks huge potential for automation, file management, and dynamic a
 In my next blog I will discuss how to create a file in google drive and upload content in it.
 ---
 
+## 📬 Contact
+
+**Alyaan Liaqat**  
+📧 [alyaanch3@gmail.com]  
+🔗 [LinkedIn](www.linkedin.com/in/alyaan-liaqat)  
+🌐 [GitHub Portfolio](https://alyaanliaqat.github.io/)
+
+---
