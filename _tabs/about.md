@@ -7,7 +7,7 @@ order: 4
 # About Me
 
 <p align="center">
-  <strong>Data Engineer | Data Analyst | Python Enthusiast</strong><br>
+  <strong>Data Analyst</strong><br>
   <em>Building scalable solutions with data-driven thinking.</em>
 </p>
 
@@ -15,7 +15,7 @@ order: 4
 
 ## 👋 Introduction
 
-I am a **Data Engineer** and **Data Analyst** with strong skills in:
+I am a **Data Analyst** with strong skills in:
 
 - **Python**: Data scraping, data preprocessing, building machine learning models
 - **SQL**: Efficient querying and database management
